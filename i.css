@@ -1,0 +1,79 @@
+*{
+  box-sizing: border-box;
+
+}
+
+body{
+  margin: 0;
+  padding:0;
+  background-color: #003638;
+
+}
+.navbar{
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+    background-color:#000000;
+  color:#EEEEEE;
+}
+.title{
+margin: 10px;
+font-size: 15px;
+position: relative;
+left:500px;
+
+
+font-family: "Georgia", Times, serif;
+}
+.links ul{
+  margin:0;
+  padding:0;
+  display: flex;
+}
+
+.links li{
+  list-style: none;
+}
+.links li a{
+  text-decoration: none;
+  padding:30px;
+  font-size:25px;
+display: block;
+  color:#EFB7B7;
+
+}
+.links li:hover{
+  background-color:#BD4B4B;
+  font-weight: bold;
+}
+.v{
+  width:"500";
+  height:"500";
+  margin: 30px;
+}
+.imag{
+  position: absolute;
+  left:800px;
+  height: 100px;
+  width: 100px;
+  bottom:500px;
+  margin: 30px;
+
+
+  }
+.v{
+  position: absolute;
+  bottom:20px;
+  left: 20px;
+  height: 500px;
+  width: 1000px;
+  text-align: center;
+  margin: 0 auto;
+}
+.con{
+
+  text-align: center;
+  font-size: 30px;
+  color: white;
+
+}

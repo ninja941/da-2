@@ -1,0 +1,15 @@
+body{
+  background-image: url("image.jpg");
+    background-color: #FAFCFE;
+        height: 500px;
+    background-position: center;
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title{
+  font-size: 20px;
+  font-weight: bold;
+  color:#101010;
+  text-align: center;
+}

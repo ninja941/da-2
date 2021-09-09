@@ -1,0 +1,21 @@
+body{
+  background-color: #FD794F;
+
+}
+.cc{
+  height: 400px;
+  width: 600px;
+  text-align: center;
+
+
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+  color:#3F8A89;
+  text-align: center;
+
+}
+P{
+  font-weight: bold;
+}

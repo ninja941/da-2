@@ -1,0 +1,34 @@
+.m{
+  background-image: url("image.jpg"); /* The image used */
+    background-color: #FAFCFE; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+
+.title{
+  font-size: 20px;
+  font-weight: bold;
+  color:#101010;
+  text-align: center;
+}
+
+.g{
+
+background-color: #17181F;
+
+}
+
+
+.gem{
+  height: 300px;
+  width: 400px;
+
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+  color:#CB69C1;
+  text-align: center;
+}

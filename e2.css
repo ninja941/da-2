@@ -1,0 +1,18 @@
+body{
+
+background-color: #17181F;
+
+}
+
+
+.gem{
+  height: 300px;
+  width: 400px;
+
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+  color:#CB69C1;
+  text-align: center;
+}
